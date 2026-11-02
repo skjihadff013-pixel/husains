@@ -19,7 +19,7 @@ ORDER_CHANNEL=os.getenv("ORDER_CHANNEL","") or None
 REFERRAL_BONUS=float(os.getenv("REFERRAL_BONUS","1"))
 DB_PATH=os.getenv("DB_PATH","smm_panel.db")
 logging.basicConfig(level=logging.INFO)
-log=logging.getLogger("ts-smm")
+log=logging.getLogger("4x-smm")
 states={}
 
 DEFAULT_SERVICES=[
