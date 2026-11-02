@@ -1,4 +1,4 @@
-# TS SMM PANEL BOT
+# 4X SMM PANEL BOT
 
 ## Install
 ```bash
